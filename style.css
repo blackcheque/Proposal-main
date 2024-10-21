@@ -4,12 +4,8 @@
     box-sizing: border-box;
     font-family: sans-serif;
   }
-h2{
-  text-align: center;
-  color: #e61616;
-  
 
-}
+
   body {
     width: 100%;
     min-height: 100vh;
